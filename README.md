@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MichaelGiraffe.I exist
+- 😎🤑I like pet projects
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Python,C++.
 - 💞️ I’m looking to collaborate on any people, which can help me get experience with libraries and take me on their project
 - 📫 How to reach me uscoff2005@gmail.com
 
