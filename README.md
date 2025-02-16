@@ -27,6 +27,6 @@ Latest Works:
 
 
 Languages & Tools:
-
+![Flutter](https://shields.microej.com/badge/-Flutter-<COLOR>?style=for-the-badge&logo=appveyor)
 
 Write me:
