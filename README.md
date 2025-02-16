@@ -15,7 +15,6 @@ You can click the Preview link to take a look at your changes.
 
 ![Header](https://github.com/MichaelGiraffe/MichaelGiraffe/blob/main/assets/sem_S8FuUQs.jpg)
 
-About me:
 👋 Hi, I’m @MichaelGiraffe.I exist
 - 😎🤑I like pet projects
 - 👀 I’m interested in programming
